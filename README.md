@@ -1,0 +1,1 @@
+Drush terminal test

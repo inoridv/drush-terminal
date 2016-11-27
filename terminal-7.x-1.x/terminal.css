@@ -1,0 +1,28 @@
+
+
+#terminal-container {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #000;
+  font: monospace;
+  background: #000;
+  height: 200px;
+}
+
+
+#terminal-container .title {
+  background: #ccc url('images/bar.png') top repeat-x;
+  height: 20px;
+  margin: 1px;
+}
+
+#terminal-container .body {
+  background: #000;
+  height: 180px;
+  color: #FFF;
+}
+
+span {
+  color: white;
+}
